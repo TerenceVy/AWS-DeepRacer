@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 4000
+  },
+  "uri": {
+    "mongodb": "mongodb+srv://test:test@cluster0-3usvv.mongodb.net/test?retryWrites=true&w=majority"
+  }
+}
